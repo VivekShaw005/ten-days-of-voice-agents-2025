@@ -1,0 +1,26 @@
+[
+    {
+        "id": "atom",
+        "title": "Atom & Structure",
+        "summary": "An atom is the smallest unit of an element that retains the chemical properties of that element. It consists of a nucleus (protons and neutrons) surrounded by electrons in orbitals.",
+        "sample_question": "What are the three main subatomic particles and where are they located in the atom?"
+    },
+    {
+        "id": "periodic_table",
+        "title": "Periodic Table",
+        "summary": "The periodic table organizes elements by increasing atomic number and groups elements with similar chemical properties into columns called groups or families.",
+        "sample_question": "How does atomic radius change across a period (left to right) and why?"
+    },
+    {
+        "id": "bonding",
+        "title": "Chemical Bonding",
+        "summary": "Atoms form chemical bonds to achieve stable electron configurations. Major bonding types include ionic, covalent, and metallic bonds, each with distinct properties.",
+        "sample_question": "What is the key difference between ionic and covalent bonds?"
+    },
+    {
+        "id": "acids_bases",
+        "title": "Acids & Bases",
+        "summary": "Acids donate protons (H+) and bases accept protons. pH measures acidity; strong acids/bases dissociate completely in solution while weak ones do not.",
+        "sample_question": "What is pH and how does it relate to H+ concentration in a solution?"
+    }
+]
